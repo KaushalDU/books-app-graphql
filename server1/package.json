@@ -7,6 +7,16 @@
     "build": "echo \"No build specified\" && exit 1",
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "nodemon index.js"
+     "repository": {
+        "type": "git",
+       "url": "git+https://github.com/KaushalDU/books-app-graphql.git"
+    },
+   "author": "",
+   "license": "ISC",
+    "bugs": {
+       "url": "https://github.com/KaushalDU/books-app-graphql/issues"
+    },
+    "homepage": "https://github.com/KaushalDU/books-app-graphql#readme"
   },
   "keywords": [],
   "author": "",
