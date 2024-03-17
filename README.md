@@ -2,7 +2,7 @@
 This backend application is built using GraphQL to manage a books app. It includes functionality for users and admins to interact with the system.
 
 ## Features
--**User authentication with roles (User and Admin).**
+-User authentication with roles (User and Admin).
 
 -CRUD operations for books.
 
@@ -12,26 +12,40 @@ This backend application is built using GraphQL to manage a books app. It includ
 
 -GraphQL API for efficient data querying and manipulation.
 
+
+
 ## Technologies Used
+
 -Node.js
+
 -Express.js
+
 -GraphQL
+
 -MongoDB
+
 -JSON Web Tokens (JWT) for authentication
+
 -bcrypt 
+
 -nodemon
 
+
+
 ## Installation
+
 
 To install all dependencies:
 
 `npm install or npm i`
+
 
 ## Running the Server
 
 To run the server:
 
 `npm run server`
+
 
 ## Deployed Link
 
