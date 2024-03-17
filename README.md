@@ -2,7 +2,7 @@
 This backend application is built using GraphQL to manage a books app. It includes functionality for users and admins to interact with the system.
 
 ## Features
--User authentication with roles (User and Admin).
+-**User authentication with roles (User and Admin).**
 -CRUD operations for books.
 -Access control based on user roles.
 -Only admins can create, delete, or update books.
